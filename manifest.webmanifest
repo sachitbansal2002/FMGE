@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "FMGE Baseline Lab",
+  "short_name": "FMGE Baseline",
+  "description": "Self-paced 300-question FMGE baseline exam. Works offline and saves progress on your device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fcf7f3",
+  "theme_color": "#fcf7f3",
+  "lang": "en",
+  "categories": ["education", "medical"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
